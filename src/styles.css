@@ -344,3 +344,27 @@ footer { padding: 72px 0 25px; background: #151918; color: #fff; }
 @media (max-width: 700px) {
   .brand-mark { width: 52px; height: 52px; border-radius: 10px; }
 }
+
+@media (max-width: 700px) {
+  .hero h1 {
+    width: 100%;
+    max-width: 100%;
+    font-size: 2.7rem !important;
+    line-height: 1 !important;
+    letter-spacing: -0.04em;
+    white-space: normal;
+    overflow-wrap: break-word;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero h1 {
+    font-size: 2.45rem !important;
+  }
+}
+
+@media (max-width: 390px) {
+  .hero h1 {
+    font-size: 2.25rem !important;
+  }
+}
