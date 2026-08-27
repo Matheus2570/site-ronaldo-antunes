@@ -5,8 +5,8 @@ export const siteConfig = {
   title: "Engenharia e Administração de Obras",
   instagram: "https://www.instagram.com/ronaldoantunes.engenharia/",
   instagramLabel: "@ronaldoantunes.engenharia",
-  whatsapp: "5519999999999", // TROQUE PELO NÚMERO REAL antes de publicar
-  whatsappDisplay: "(19) 99999-9999", // TROQUE PELO NÚMERO REAL
+  whatsapp: "5519991756323", // TROQUE PELO NÚMERO REAL antes de publicar
+  whatsappDisplay: "(19) 99175-6323", // TROQUE PELO NÚMERO REAL
   region: "Campinas e região",
 };
 
